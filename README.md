@@ -10,5 +10,4 @@ My dream is to become a solo entrepreneur. I left my job in 2024 and started bui
 * Blog: [syan.dev](https://syan.dev)
 
 
-#![syan.dev's Stats](https://github-readme-stats.vercel.app/api?username=syan-dev&theme=default&show_icons=true&hide_border=false&count_private=true) 
 ![syan.dev's Stats](https://streak-stats.demolab.com/?user=syan-dev)
