@@ -1,4 +1,4 @@
-## Hi, I'm Sy An | Software Engineer | Indie Hacker | Blogger 🇻🇳
+## Hi, I'm Sy An | Software Engineer | Blogger 🇻🇳
 
 My dream is to become a solo entrepreneur. I left my job in 2024 and started building things. I will write more about this journey in my blog [syan.dev](https://syan.dev).
 
